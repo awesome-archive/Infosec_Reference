@@ -18,20 +18,54 @@
 * [Papers](#papers)
 * [Wikis & Useful Sites](#wikis)
 
+http://ropgadget.com/posts/pebwalk.html
 
 
+https://github.com/TakahiroHaruyama/ida_haru/tree/master/bindiff
 
+https://blog.xpnsec.com/analysing-rpc-with-ghidra-neo4j/
+http://kakaroto.homelinux.net/2017/11/introduction-to-reverse-engineering-and-assembly/
+https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/june/advanced-frida-witchcraft-turning-an-android-application-into-a-voodoo-doll/
+* [Using WPP and TraceLoggingTracing to Facilitate Dynamic and Static Windows RE - Matt Graeber](https://drive.google.com/file/d/1wtQXVdvJmhG7ba99pq3BZq_Fyf6E3F71/view)
 
+RE
+https://fkie-cad.github.io/FACT_core/
+https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool
+https://dyninst.org/
+https://drmemory.org/strace_for_windows.html
+https://www.frida.re/
+http://dynamorio.org/
+https://arxiv.org/pdf/1901.01161.pdf
+
+* https://github.com/JusticeRage/Manalyze
+* https://bordplate.no/blog/en/post/debugging-a-windows-service/
+https://doc.dustri.org/reverse/Brian%20Pak%20-%20Effective%20Patch%20Analysis%20for%20Microsoft%20Updates%20-%20Power%20of%20Community%20-%202016.11.pdf
+
+* [How to break PDF Signatures](https://www.pdf-insecurity.org/)
+	* [Technical Writeup](https://www.pdf-insecurity.org/signature/signature.html)
 * **ToDo**
 	* A proper ToC
 	* Sort bottom section
+https://blog.xpnsec.com/analysing-rpc-with-ghidra-neo4j/
+https://ezequieltbh.me/posts/2019/05/love-is-in-the-air-reverse-engineering-a-shitty-drone/
+* [Advanced Portable Executable File Analyzer](https://github.com/blacknbunny/peanalyzer)
+	* Advanced Portable Executable File Analyzer And Disassembler 32 & 64 Bit
 
+* [Debugging with Symbols - docs.ms](https://docs.microsoft.com/en-us/windows/desktop/DxTechArts/debugging-with-symbols)
+https://secrary.com/Random/unexported/
 
-
-
-
-
-
+PDF
+http://joxeankoret.com/blog/2010/02/21/analyzing-pdf-exploits-with-pyew/
+https://blog.didierstevens.com/2008/10/30/pdf-parserpy/
+http://blog.9bplus.com/
+http://blog.9bplus.com/scoring-pdfs-based-on-malicious-filter/
+http://honeynet.org/node/1304
+https://itsjack.cc/blog/2017/08/analysingdetecting-malicious-pdfs-primer/
+https://securityoversimplicity.wordpress.com/2017/09/28/not-all-she-wrote-part-1-rigged-pdfs/
+https://digital-forensics.sans.org/blog/2009/12/14/pdf-malware-analysis/
+https://blog.didierstevens.com/programs/pdf-tools/
+https://blog.didierstevens.com/2009/03/31/pdfid/
+https://www.cs.unm.edu/~eschulte/data/bed.pdf
 
 --------------
 ### General

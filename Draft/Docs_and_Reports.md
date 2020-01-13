@@ -13,9 +13,14 @@
 
 
 
+
+To Do:
+	* Add Note taking methods
+
+
 -----------------
 ### Start Here	
-	* [How I read a research paper](https://muratbuffalo.blogspot.com/2013/07/how-i-read-research-paper.html?m=1)
+* [How I read a research paper](https://muratbuffalo.blogspot.com/2013/07/how-i-read-research-paper.html)
 * **Writing**<a name="writing"></a>
 	* Start with the first two links, and go from there. They’re both great resources to writing technical documentation, the first being a beginners guide and the second being a general guide that beginners can understand.
 		* [A beginners guide to writing documentation](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
@@ -29,6 +34,7 @@
 			* [What to write](http://jacobian.org/writing/what-to-write/)
 			* [Technical Style](http://jacobian.org/writing/technical-style/)
 			* [Editors](http://jacobian.org/writing/editors/)
+		* [The Ultimate Workflow for Writers Obsessed with Quality - Rob Hardy](https://betterhumans.coach.me/the-ultimate-workflow-for-writers-obsessed-with-quality-5b2810e1214b)
 	* **Writing a Paper**
 		* [How to write a great research paper - Simon Peyton Jones](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 	* **Technical Writing**
@@ -40,6 +46,8 @@
 		* [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
 * **Language**
 	* [Bishop Fox Cybersecurity Style Guide](https://www.bishopfox.com/blog/2018/02/hello-world-introducing-the-bishop-fox-cybersecurity-style-guide/)
+* **Taking Notes**
+	* [My Forensic and Incident Response Note Taking Methodology - IronMoon](https://ironmoon.net/2019/02/04/My-Forensic-and-Incident-Response-Note-Taking-Methodology.html)
 * **Tools**
 	* [Ronn](https://github.com/rtomayko/ronn)
 		* Ronn builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web. The source format includes all of Markdown but has a more rigid structure and syntax extensions for features commonly found in manpages (definition lists, link notation, etc.). The ronn-format(7) manual page defines the format in detail.
@@ -49,28 +57,41 @@
 			* Curated list of public penetration test reports released by several consulting firms and academic security groups
 		* [Penetration tests done by cure53, good examples of how a report should be done.](https://cure53.de/#publications )
 		* [Offensive Security 2013 Demo report](http://www.offensive-security.com/offsec/penetration-test-report-2013/)
-	* **Writing a Report**
-		* [Writing a Penetration Testing Report by SANS](https://www.sans.org/reading-room/whitepapers/bestprac/writing-penetration-testing-report-33343)
-		* [I \<3 Reporting - ](https://github.com/leesoh/iheartreporting)
-			* Reporting Tips for Penetration Testers
-		* [Penetration Testing Execution Standard section on Reporting](http://www.pentest-standard.org/index.php/Reporting)
-		* [Tips for Creating an Information Security Assessment Report Cheat Sheet](https://zeltser.com/security-assessment-report-cheat-sheet/)
-		* [HowTo: Write pentest reports the easy way](http://blog.dornea.nu/2014/05/20/howto-write-pentest-reports-the-easy-way/)
-		* [ The Penetration Testing Report - websecuritywatch](https://web.archive.org/web/20180201103151/http://www.websecuritywatch.com/the-penetration-testing-report/)
-		* [Excellent blog post breaking down the various parts, a must read](http://wwwwebsecuritywatch.com/the-penetration-testing-report/)
+	* **Writing a Penetration Test Report**
+		* **Articles**
+			* [Writing a Penetration Testing Report by SANS](https://www.sans.org/reading-room/whitepapers/bestprac/writing-penetration-testing-report-33343)
+			* [Penetration Testing Execution Standard section on Reporting](http://www.pentest-standard.org/index.php/Reporting)
+			* [Tips for Creating an Information Security Assessment Report Cheat Sheet](https://zeltser.com/security-assessment-report-cheat-sheet/)
+			* [HowTo: Write pentest reports the easy way](http://blog.dornea.nu/2014/05/20/howto-write-pentest-reports-the-easy-way/)
+			* [ The Penetration Testing Report - websecuritywatch](https://web.archive.org/web/20180201103151/http://www.websecuritywatch.com/the-penetration-testing-report/)
+			* [Excellent blog post breaking down the various parts, a must read](http://wwwwebsecuritywatch.com/the-penetration-testing-report/)
+			* [Your Reporting Matters: How to Improve Pen Test Reporting - Brian B. King](https://www.blackhillsinfosec.com/your-reporting-matters-how-to-improve-pen-test-reporting/)
+				* [Video Presentation](https://www.youtube.com/watch?v=NUueNT1svb8)
+		* **Talks**
+			* [Hack for Show, Report for Dough - Brian B. King(WWHF 2018)](https://www.youtube.com/watch?v=c_LBWqNDY0M)
+				* The fun part of pentesting is the hacking. But the part that makes it a viable career is the report. You can develop the most amazing exploit for the most surprising vulnerability, but if you can't document it clearly for the people who need to fix it, then you're just having fun. Which is fine! But if you want to make a career out of it, your reports need to be as clear and useful as your hacks are awesome. This talk shows simple techniques you can use to make your reports clear, useful, and brief. You'll see some before-and-after examples of a bad report made good, with clear explanations of what makes the difference. Those things will be useful no matter what tools you use to create reports. Then, if we have time, we'll look at some Microsoft Word hacks that will save you time and improve consistency.
+		* **Tools that can help**
+			* [I \<3 Reporting - ](https://github.com/leesoh/iheartreporting)
+				* Reporting Tips for Penetration Testers
 	* **Writing an Request for Proposal**
 		* [security-assessment-rfp-cheat-sheet](http://zeltser.com/security-assessments/security-assessment-rfp-cheat-sheet.html)
 	* **Templates**
 		* [Report Template from vulnerabilityassessment.co.uk](http://www.vulnerabilityassessment.co.uk/report%20template.html)
 		* [SANS InfoSec Policy Templates](https://www.sans.org/security-resources/policies/)
+* **Writing Technical Documentation**
+	* [The Elements Of Style: UNIX As Literature - Thomas Scoville](http://theody.net/elements.html)
 * **Meta**<a name="meta"></a>
 	* **LaTex**
 	* **Markdown**
-		* [What is Markdown?](http://daringfireball.net/projects/markdown/syntax)
-		* [Using markdown](https://guides.github.com/features/mastering-markdown/)
-		* [Markdown Syntax](http://daringfireball.net/projects/markdown/syntax)
-		* [Markdown basics](https://help.github.com/articles/markdown-basics/)
-		* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+		* **101**
+			* [What is Markdown?](http://daringfireball.net/projects/markdown/syntax)
+			* [Markdown Syntax](http://daringfireball.net/projects/markdown/syntax)
+			* [Markdown basics](https://help.github.com/articles/markdown-basics/)
+		* **Using**
+			* [Markdown For Penetration testers & Bug-bounty hunters - enciphers](https://enciphers.com/markdown-for-penetration-testers-bug-bounty-hunters/)
+			* [Using markdown](https://guides.github.com/features/mastering-markdown/)
+			* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+		* **Tools**
 	* **Tools**
 		* [vim-wordy](https://github.com/reedes/vim-wordy/blob/master/README.markdown)
 			* wordy is not a grammar checker. Nor is it a guide to proper word usage. Rather, wordy is a lightweight tool to assist you in identifying those words and phrases known for their history of misuse, abuse, and overuse, at least according to usage experts.
@@ -88,6 +109,7 @@
 	* [Sample Debriefing Statement - Albion College](https://www.albion.edu/academics/student-research/institutional-review-board/submitting-a-proposal/sample-debriefing-statement)
 * **General**
 	* [Debriefing Facilitation Guide: Leading Groups at Etsy to Learn from Accidents - Etsy](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf)
+	* [Presentation Tips for Technical Talks - SheHacksPurple](https://medium.com/@shehackspurple/presentation-tips-for-technical-talks-8d59f3de9f6d)
 * **Talks**
 	* [A presentation or presentations because presenting - Jason Blanchard - Derbycon7](https://www.youtube.com/watch?v=FcgM7c0vzcE&app=desktop)
 * **Tools**
@@ -115,6 +137,10 @@
 		* Serpico is a penetration testing report generation and collaboration tool. It was developed to cut down on the amount of time it takes to write a penetration testing report.
 	* [Vulnreport](https://github.com/Salesforce/Vulnreport)
 		* Vulnreport is a platform for managing penetration tests and generating well-formatted, actionable findings reports without the normal overhead that takes up security engineer's time. The platform is built to support automation at every stage of the process and allow customization for whatever other systems you use as part of your pentesting process.
+	* [Ghostwriter](https://github.com/GhostManager/Ghostwriter)
+		* Ghostwriter is a Django project written in Python 3.7 and is designed to be used by a team of operators. The platform is made up of several Django apps that own different roles but work together. See the Wiki for more information.
+		* [Wiki](https://ghostwriter.wiki/)
+		* [Introducing Ghostwriter - Christopher Maddalena](https://posts.specterops.io/introducing-ghostwriter-part-1-61e7bd014aff)
 * **Video Recording/Visual Documentation**<a name="video"></a>
 	* [Open Broadcaster Software OBS](https://obsproject.com/)
 		* Open Broadcaster Software is free and open source software for video recording and live streaming. Cross Platform, Windows/OsX/Linux
@@ -137,15 +163,20 @@
 ----------------
 ### <a name="disclosure"></a>Disclosure
 * **101**
+	* [OWASP Vulnerability Disclosure Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html)
 	* [NCSAM: Coordinated Vulnerability Disclosure Advice for Researchers](https://community.rapid7.com/community/infosec/blog/2016/10/28/ncsam-coordinated-vulnerability-disclosure-advice-for-researchers)
 	* [Protecting Your Sources When Releasing Sensitive Documents](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/)
 	* [Good comparison of various forms of disclosure](http://blog.opensecurityresearch.com/2014/06/approaches-to-vulnerability-disclosure.html)
+	* [Threatbutt irresponsible disclosure policy](http://threatbutt.com/bugbounty.html)
 * **CVE**
 	* [Request a CVE ID](http://cve.mitre.org/cve/request_id.html#cna_coverage)
 	* [My first CVE-2016-1000329 in BlogPHP](https://www.stevencampbell.info/2016/12/my-first-cve-2016-1000329-in-blogphp/)
 * **Dealing with the press/journalists:**
 	* [Hacking the media for fame/profit talk](http://www.irongeek.com/i.php?page=videos/derbycon4/Hacking-The-Media-For-Fame-And-Profit-Jenn-Ellis-Steven-Reganh)
 * **History**
+	* [Coordinated Vulnerability Disclosure: Bringing Balance to the Force - blogs.technet](https://blogs.technet.microsoft.com/ecostrat/2010/07/22/coordinated-vulnerability-disclosure-bringing-balance-to-the-force/)
+	* [Full disclosure (computer security) - Wikipedia](https://en.wikipedia.org/wiki/Full_disclosure_(computer_security))
+	* [Schneier: Full Disclosure of Security Vulnerabilities a 'Damned Good Idea' - Bruce Schneier](https://www.schneier.com/essays/archives/2007/01/schneier_full_disclo.html)
 	* [Responsible Disclosure is Wrong](https://adamcaudill.com/2015/11/19/responsible-disclosure-is-wrong/)
 * **How-To**
 	* [How to Disclose or Sell an Exploit - DEF CON 21 - James Denaro](https://www.youtube.com/watch?v=N1Xj3f4felg)
@@ -153,5 +184,6 @@
 * **Tools**
 	* [Portcullis Computer Security Co-ordinated Disclosure Toolkit](https://github.com/portcullislabs/co-ordinated-disclosure-toolkit)
 	* [Clean writeup of Full-Disclosure release policy that is more similar to Coordinated Disclosure.](http://www.ilias.de/docu/goto_docu_wiki_1357_RFPolicy.html)
+
 
 

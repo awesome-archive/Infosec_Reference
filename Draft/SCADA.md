@@ -14,14 +14,9 @@
 
 
 
-
-
-----------
-
-#### Sort
-
-
-#### End Sort
+https://labs.mwrinfosecurity.com/blog/offensive-ics-exploitation-a-technical-description/
+https://www.icscybersecurityconference.com/intelligence-gathering-on-u-s-critical-infrastructure/
+https://scadahacker.com/training.html
 
 ----------------------
 ### <a name="general"></a>General

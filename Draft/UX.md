@@ -1,7 +1,8 @@
-# UX/UI Design - Because we all know how sexy PGP looks / How easy to use it is.
+# UX/UI Design
 
+## Because we all know how sexy using PGP is.
 
-
+----------------------
 #### ToC
 * [General](#general)
 * [Books](#books)
@@ -9,14 +10,23 @@
 * [Websites/Organizations](#web)
 
 
+UX Strategy: How to Devise Innovative Digital Products that People Want 
+Mapping Experiences: A Complete Guide to Creating Value through Journeys, Blueprints, and Diagrams
+How to Make Sense of Any Mess: Information Architecture for Everybody
+The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition) (Voices That Matter)
+Articulating Design Decisions: Communicate with Stakeholders, Keep Your Sanity, and Deliver the Best User Experience
+UX Research: Practical Techniques for Designing Better Products
+Lean UX: Applying Lean Principles to Improve User Experience
+Information Architecture: For the Web and Beyond
+
+* [Welcome to The HTML Hell Page - catb.org](http://www.catb.org/~esr/html-hell.html)
+
+* [Re-approaching Color - Kevyn Arnott](https://design.lyft.com/re-approaching-color-9e604ba22c88)
 
 
-#### Sort
-
-#### End Sort
- 
 
 
+---------------------------
 ### General User Interface/User Experience Design
 * **Articles**
 	* [How Technology Hijacks People’s Minds — from a Magician and Google’s Design Ethicist](http://www.tristanharris.com/2016/05/how-technology-hijacks-peoples-minds%E2%80%8A-%E2%80%8Afrom-a-magician-and-googles-design-ethicist/)
@@ -46,7 +56,3 @@
 		* A Dark Pattern is a user interface that has been carefully crafted to trick users into doing things, such as buying insurance with their purchase or signing up for recurring bills.
 	* [Nielsen Norman Group](http://www.nngroup.com)
 		* Evidence-Based User Experience Research, Training, and Consulting; check articles and guidelines, ignore other sections
-* **Hiring Boards**
-	* [dribble](https://dribbble.com/)
-	* [uplabs](https://www.uplabs.com/)
-	* [CodePen](https://codepen.io/#)
